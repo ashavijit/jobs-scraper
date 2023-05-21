@@ -1,0 +1,125 @@
+{
+    "job_count": 20,
+    "jobs": [
+        {
+            "title": "UK-Business Expert",
+            "date_posted": "21 May 2023",
+            "department": "Apple Retail",
+            "apply_link": "https://jobs.apple.com/en-gb/details/114438135/uk-business-expert?team=APPST"
+        },
+        {
+            "title": "UK - Specialist: Full-Time, Part-Time, and Part-Time Temporary",
+            "date_posted": "21 May 2023",
+            "department": "Apple Retail",
+            "apply_link": "https://jobs.apple.com/en-gb/details/114438145/uk-specialist-full-time-part-time-and-part-time-temporary?team=APPST"
+        },
+        {
+            "title": "UK-Creative",
+            "date_posted": "21 May 2023",
+            "department": "Apple Retail",
+            "apply_link": "https://jobs.apple.com/en-gb/details/114438136/uk-creative?team=APPST"
+        },
+        {
+            "title": "UK-Business Pro",
+            "date_posted": "21 May 2023",
+            "department": "Apple Retail",
+            "apply_link": "https://jobs.apple.com/en-gb/details/200125450/uk-business-pro?team=APPST"
+        },
+        {
+            "title": "UK-Technical Specialist",
+            "date_posted": "21 May 2023",
+            "department": "Apple Retail",
+            "apply_link": "https://jobs.apple.com/en-gb/details/114438202/uk-technical-specialist?team=APPST"
+        },
+        {
+            "title": "UK-Expert",
+            "date_posted": "21 May 2023",
+            "department": "Apple Retail",
+            "apply_link": "https://jobs.apple.com/en-gb/details/114438137/uk-expert?team=APPST"
+        },
+        {
+            "title": "UK-Genius",
+            "date_posted": "21 May 2023",
+            "department": "Apple Retail",
+            "apply_link": "https://jobs.apple.com/en-gb/details/114438138/uk-genius?team=APPST"
+        },
+        {
+            "title": "Facilities Manager",
+            "date_posted": "21 May 2023",
+            "department": "Corporate Functions",
+            "apply_link": "https://jobs.apple.com/en-gb/details/200470216/facilities-manager?team=CORSV"
+        },
+        {
+            "title": "Senior Software Developer - On-device Messaging Orchestration for Apple Music, Apple Wallet and more",
+            "date_posted": "19 May 2023",
+            "department": "Software and Services",
+            "apply_link": "https://jobs.apple.com/en-gb/details/200473202/senior-software-developer-on-device-messaging-orchestration-for-apple-music-apple-wallet-and-more?team=SFTWR"
+        },
+        {
+            "title": "Data Analytics Site Reliability Engineer",
+            "date_posted": "19 May 2023",
+            "department": "Software and Services",
+            "apply_link": "https://jobs.apple.com/en-gb/details/200449123/data-analytics-site-reliability-engineer?team=SFTWR"
+        },
+        {
+            "title": "UK-Senior Manager",
+            "date_posted": "18 May 2023",
+            "department": "Apple Retail",
+            "apply_link": "https://jobs.apple.com/en-gb/details/200480150/uk-senior-manager?team=APPST"
+        },
+        {
+            "title": "Design Verification Manager",
+            "date_posted": "17 May 2023",
+            "department": "Hardware",
+            "apply_link": "https://jobs.apple.com/en-gb/details/200480182/design-verification-manager?team=HRDWR"
+        },
+        {
+            "title": "SWE - Pre-Silicon  Compositing Driver Engineer, GGD",
+            "date_posted": "15 May 2023",
+            "department": "Software and Services",
+            "apply_link": "https://jobs.apple.com/en-gb/details/200470214/swe-pre-silicon-compositing-driver-engineer-ggd?team=SFTWR"
+        },
+        {
+            "title": "Curation Editor - Apple News",
+            "date_posted": "12 May 2023",
+            "department": "Software and Services",
+            "apply_link": "https://jobs.apple.com/en-gb/details/200477538/curation-editor-apple-news?team=SFTWR"
+        },
+        {
+            "title": "Compiler Performance Engineer",
+            "date_posted": "12 May 2023",
+            "department": "Software and Services",
+            "apply_link": "https://jobs.apple.com/en-gb/details/200478213/compiler-performance-engineer?team=SFTWR"
+        },
+        {
+            "title": "GPU Hardware Modelling Engineer",
+            "date_posted": "12 May 2023",
+            "department": "Hardware",
+            "apply_link": "https://jobs.apple.com/en-gb/details/200237509/gpu-hardware-modelling-engineer?team=HRDWR"
+        },
+        {
+            "title": "Apple TV (Design), EMEA - Apple Services Academy 2023",
+            "date_posted": "12 May 2023",
+            "department": "Design",
+            "apply_link": "https://jobs.apple.com/en-gb/details/200477141/apple-tv-design-emea-apple-services-academy-2023?team=DESGN"
+        },
+        {
+            "title": "International Product Design - Apple Services Academy 2023",
+            "date_posted": "12 May 2023",
+            "department": "Design",
+            "apply_link": "https://jobs.apple.com/en-gb/details/200477140/international-product-design-apple-services-academy-2023?team=DESGN"
+        },
+        {
+            "title": "PMU Firmware Engineer (Early Career)",
+            "date_posted": "12 May 2023",
+            "department": "Hardware",
+            "apply_link": "https://jobs.apple.com/en-gb/details/200479411/pmu-firmware-engineer-early-career?team=HRDWR"
+        },
+        {
+            "title": "Platoon - Apple Services Academy 2023",
+            "date_posted": "11 May 2023",
+            "department": "Marketing",
+            "apply_link": "https://jobs.apple.com/en-gb/details/200477139/platoon-apple-services-academy-2023?team=MKTG"
+        }
+    ]
+}
